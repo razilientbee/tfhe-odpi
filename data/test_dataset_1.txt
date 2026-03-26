@@ -1,0 +1,5 @@
+GET /index.html HTTP/1.1 Host: example.com
+POST /login HTTP/1.1 USER admin PASS 1234
+normal benign traffic no match expected
+USER anonymous login attempt detected
+random string without meaning or pattern
