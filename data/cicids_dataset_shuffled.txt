@@ -1,0 +1,370 @@
+SIZE /dists/ubuntu/12.04/source/Sources.xz
+STOR 011417bb44274faaae2cab96528f27f0.txt
+MDTM /dists/ubuntu/contrib/i18n/Translation-en_CA.gz
+SIZE /dists/ubuntu/contrib/i18n/Translation-en_CA.xz
+GET /c/msdownload/update/others/2017/07/25178037_2ac4a3fb9e4c13fc1dfaabca4c0248c892a16a71.cab HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Windows-Update-Agent/10.0.10011.16485 Client-Protocol/1.32Host: download.windowsupdate.com
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����95z�kLդ�-�K`
+SIZE /dists/ubuntu/12.04/i18n/Translation-en_CA.bz2
+GET /ubuntu/dists/xenial-updates/main/dep11/by-hash/SHA256/e1f30bf3f9cb316e52a1a4a824ea3b564bbdc386eb2316c45abdc11b41f4cf79 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/main/dep11/by-hash/SHA256/eb7de0ee9181f92f495673de1d6599e370cbec192e07132a48f8e55a43d20876 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/universe/dep11/by-hash/SHA256/f8f1fbd5e46d4278004291f6a8e26979f5947da0d07626bf6d1100c83f07b497 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/universe/dep11/by-hash/SHA256/16d974a1492c069a9f0dfa5e893d8c1f77ef788be1a4d56b2ee0b78ea6181b3c HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/multiverse/dep11/by-hash/SHA256/72579c10b5980017cfed8b050fc1498878a837b73d159c3c3700093f99cdc128 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+GET /ubuntu/dists/xenial-security/main/dep11/by-hash/SHA256/b0f611632c6d0ab1c6c0be231a0b8ccb04f726bd047f94fc74728142e0edaa9c HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+POST / HTTP/1.1Host: ocsp.sca1b.amazontrust.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+3���f�]:M>q8�Y�fR�{��<��'�t[�=���W�g��̯N_�j�
+STOR e2633dc4f75d4919b380ffcf0783fd29.txt
+GET /wp-content/uploads/2017/07/FI-alicia-keys-and-swizz-and-mashonda-372x248.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+STOR 9c30c073527e483cab57b9dde8dbdac0.txt
+STOR 8d2e036effcf4b70a886b17ed137ae89.txt
+POST / HTTP/1.1Host: ocsp.godaddy.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+�_lkv��8��f�R34N@½'��4�0�3��l��,��$?��w�
+POST / HTTP/1.1Content-type: application/ocsp-requestUser-Agent: Java/1.8.0_121Host: sv.symcd.comAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Connection: keep-aliveContent-Length: 83
+STOR 716234e578ec4020b166b432f1cce04d.txt
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+�&���~���B�/j��_Qh���u<��edb��Yr;/,M�����J�C�T
+GET /teejee2008/ppa/ubuntu/dists/xenial/main/binary-amd64/by-hash/SHA256/0025cdf1387f7df7f6e7604ff8b876559d40184c4682ff3e7463d49f83da214c HTTP/1.1Host: ppa.launchpad.netCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+GET /openh264-win32-0410d336bb748149a4f560eb6108090f078254b1.zip HTTP/1.1Host: ciscobinary.openh264.orgUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQe6LNDJdqx%2BJOp7hVgTeaGFJ%2FCQgQUljtT8Hkzl699g%2B8uK8zKt4YecmYCEBLwJ34PIzs5%2BUGbBujN41I%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/6.1Host: sv.symcd.com
+SIZE /dists/ubuntu/contrib/i18n/Translation-en.xz
+STOR 6149de2c483143aa986890a97c1e83a6.txt
+RETR /dists/ubuntu/contrib/i18n/Translation-en_CA.gz
+STOR 81dd2076823b4663a9fa2fbeee9944cc.txt
+STOR 66cecae27bc94ef2afd740abbe36a566.txt
+STOR 9c7590ccdb2948f1bc36fb1f114ba0d1.txt
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����5��Ĉ�!�1l�JW
+RETR /dists/ubuntu/12.04/i18n/Translation-en_CA.gz
+GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?1095a45509c5c3e0 HTTP/1.1Connection: Keep-AliveAccept: */*If-Modified-Since: Fri, 02 Jun 2017 17:39:05 GMTIf-None-Match: "80424021c7dbd21:0"User-Agent: Microsoft-CryptoAPI/10.0Host: ctldl.windowsupdate.com
+MDTM /dists/ubuntu/contrib/source/Sources.gz
+GET /static/mws-new/WeatherImages/210x173/1.jpg?a HTTP/1.1Connection: Keep-AliveAccept: */*Accept-Encoding: identityIf-Unmodified-Since: Tue, 25 Nov 2014 21:27:30 GMTRange: bytes=4694-6474User-Agent: Microsoft BITS/7.8Host: blob.weather.microsoft.com
+SIZE /dists/ubuntu/12.04/source/Sources.lzma
+MDTM /dists/ubuntu/12.04/binary-i386/Packages.xz
+RETR /dists/ubuntu/contrib/i18n/Translation-en.lzma
+GET /wp-content/uploads/2017/07/Screen-Shot-2017-07-01-at-4.15.47-PM-365x284.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: ss.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+ѱd����k���+P����d_`�a�U߄C�`*��z�C�O���H=8�ʹ-$B�
+STOR e3d75225e5774876ac11dd21d69eb5d2.txt
+SIZE /dists/ubuntu/12.04/i18n/Translation-en_CA.xz
+SIZE /dists/ubuntu/contrib/i18n/Translation-en_CA.lzma
+POST / HTTP/1.1Host: ss.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+ѱd����k���+P����d_`�a�U߄C�`*��z�C�HT>�Gȿ��`Ԭڬ�
+MDTM /dists/ubuntu/contrib/i18n/Translation-en
+GET /wp-content/themes/oldmusic/images/sprite.png HTTP/1.1Host: www.iloveoldschoolmusic.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: ocsp.godaddy.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 76Content-Type: application/ocsp-requestConnection: keep-alive0J0H0F0D0B0	+�_lkv��8��f�R34N@½'��4�0�3��l��,��	�NK��5A�
+GET /ubuntu/dists/xenial/InRelease HTTP/1.1Host: archive.canonical.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Fri, 30 Jun 2017 22:49:07 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+RETR /dists/ubuntu/contrib/i18n/Translation-en.gz
+GET /msdownload/update/v3-19990518/cabpool/12087311_13bb547f188dccbba7dd245b33fddb9f5010e669.cab HTTP/1.1Connection: Keep-AliveAccept: */*Accept-Encoding: identityIf-Unmodified-Since: Thu, 21 Sep 2006 07:28:06 GMTUser-Agent: Microsoft BITS/7.8Host: www.download.windowsupdate.com
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+I����v���@-h;qj��=�P�֠���J`e�!������	׵�@��R�'
+STOR 28914ec011cf4b35b160926f87c0c42d.txt
+GET /wp-content/uploads/2017/06/1280_beyonce_jay_z_grammys-372x248.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Content-type: application/ocsp-requestUser-Agent: Java/1.8.0_121Host: g2.symcb.comAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Connection: keep-aliveContent-Length: 70
+SIZE /dists/ubuntu/contrib/i18n/Translation-en.bz2
+MDTM /dists/ubuntu/contrib/i18n/Index
+GET /wp-content/themes/oldmusic/images/google-icon.jpg HTTP/1.1Host: www.iloveoldschoolmusic.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+RETR /dists/ubuntu/contrib/source/Sources.lzma
+TYPE I
+GET /c/msdownload/update/others/2017/07/25178710_2c9e8a995f5ea4816cab4285613f25b5e073471c.cab HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Windows-Update-Agent/10.0.10011.16485 Client-Protocol/1.32Host: download.windowsupdate.com
+POST / HTTP/1.1Host: gn.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+���S,t7ҝ�፣l�W��o���?r<0}#څx��|Z| �)#�vw��z[@��
+SIZE /dists/ubuntu/contrib/i18n/Translation-en_CA.gz
+POST / HTTP/1.1Host: ocsp.godaddy.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+�_lkv��8��f�R34N@½'��4�0�3��l��,��[7�nJ%
+GET /singletile/summary/alias/experiencebyname/today?market=en-GB&tenant=amp&vertical=news HTTP/1.1Connection: Keep-AliveUser-Agent: Microsoft-WNS/10.0Host: cdn.content.prod.cms.msn.com
+GET /wp-content/uploads/2016/01/fb-coko-and-rapper-372x248.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+0D0B0@0>0<0	+��9���yP�`�Ԣ<����*�A���¸>U���� :o
+HEAD /msdownload/update/v3-19990518/cabpool/12087311_13bb547f188dccbba7dd245b33fddb9f5010e669.cab HTTP/1.1Connection: Keep-AliveAccept: */*Accept-Encoding: identityUser-Agent: Microsoft BITS/7.8Host: www.download.windowsupdate.com
+��<?xml version="1.0" encoding="UTF-16"?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Header><h:cd xmlns:h="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><h:cv>10.0.10240</h:cv><h:cc>CAN</h:cc></h:cd></s:Header><s:Body><DeviceMetadataBatchRequest xmlns="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><LocList><loc>MultiLoc</loc><loc>en-US</loc><loc>en</loc></LocList><MIDRequests></MIDRequests><HWIDRequests><gdmdhwid><rid>5</rid><hwids><hwid>DOID:USB\VID_04B3&amp;PID_310B&amp;REV_0160</hwid><hwid>DOID:HID\VID_04B3&amp;PID_310B&amp;REV_0160</hwid><hwid>DOID:USB\VID_04B3&amp;PID_310B</hwid><hwid>DOID:HID\VID_04B3&amp;PID_310B</hwid><hwid>DOID:HID\VID_04B3&amp;UP:0001_U:0002</hwid><hwid>DOID:HID_DEVICE_SYSTEM_MOUSE</hwid><hwid>DOID:HID_DEVICE_UP:0001_U:0002</hwid><hwid>DOID:HID_DEVICE</hwid></hwids></gdmdhwid></HWIDRequests></DeviceMetadataBatchRequest></s:Body></s:Envelope>
+GET /wp-content/uploads/2017/07/FI-dave-chappelle-and-cosby-372x248.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+SIZE /dists/ubuntu/12.04/i18n/Translation-en.xz
+GET /wp-content/uploads/2015/05/Prince-Sister-Tyka-Nelson-blog11-365x284.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/4��;��,
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/+'[�KU�x
+RETR /dists/ubuntu/12.04/i18n/Translation-en.bz2
+SIZE /dists/ubuntu/12.04/source/Sources.gz
+GET /pki/crl/products/tspca.crl HTTP/1.1Cache-Control: max-age = 900Connection: Keep-AliveAccept: */*If-Modified-Since: Sat, 24 May 2014 05:04:54 GMTIf-None-Match: "8ab194b3d77cf1:0"User-Agent: Microsoft-CryptoAPI/6.1Host: crl.microsoft.com
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/4��;��,
+STOR 69141cef0af54847b83b1331c93aaa6b.txt
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+�&���~���B�/j��_Qh���u<��edb��Yr;�����V��i*��
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����	K3�ߖ)_�/Fv$�
+POST / HTTP/1.1Host: ocsp.trustwave.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 86Content-Type: application/ocsp-requestConnection: keep-alive0T0R0P0N0L0	+JPv�<q�-sb�T����Ǻ��w�|X��p�����3�ED�J�SD��1���
+RETR /dists/ubuntu/12.04/binary-i386/Packages.gz
+STOR 68c516df637e4e6d8fb60e3e79bd6480.txt
+STOR e9afeba888004f39a6efc76dbd0ff0c3.txt
+RETR /dists/ubuntu/12.04/source/Sources.lzma
+GET /ubuntu/dists/xenial-backports/main/dep11/by-hash/SHA256/82f02810ee20ae429bbb403d2601fa6c9d22b1512b898f6f93f3a66c51eebecb HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-backports/universe/dep11/by-hash/SHA256/9a9398467bbd64049c4300008175f0bdbc32c33094f236a605d982f98c1afb7b HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+p;UP:0001_U:0002</hwid><hwid>DOID:HID_DEVICE_SYSTEM_MOUSE</hwid><hwid>DOID:HID_DEVICE_UP:0001_U:0002</hwid><hwid>DOID:HID_DEVICE</hwid></hwids></gdmdhwid></HWIDRequests></DeviceMetadataBatchRequest></s:Body></s:Envelope>
+GET /ondrej/php/ubuntu/dists/xenial/InRelease HTTP/1.1Host: ppa.launchpad.netCache-Control: max-age=0Accept: text/*If-Modified-Since: Thu, 29 Jun 2017 13:08:50 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+SIZE /dists/ubuntu/contrib/source/Sources.lzma
+STOR 9630a90f264e437bbfa141fb00ff3edf.txt
+RETR /dists/ubuntu/Release.gpg
+MDTM /dists/ubuntu/12.04/i18n/Translation-en
+POST / HTTP/1.1Host: gj.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+"�ǿ�:�tv�ESx��Y�g��O��@F�p4�rC��3�ɻɀ���
+MDTM /dists/ubuntu/contrib/binary-i386/Packages.lzma
+STOR 15a60b7473d145a7b97f8f3b2a56c3a4.txt
+POST / HTTP/1.1Host: ocsp.int-x3.letsencrypt.orgUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 85Content-Type: application/ocsp-requestConnection: keep-alive0S0Q0O0M0K0	+~�j�r����� dl�-`q]�Jjc}ݺ��9��Ee���|$v�B6�%��� �
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/h+B���O
+GET /ubuntu/dists/xenial-security/main/dep11/by-hash/SHA256/6845aedab22a69b44196419c85fa89c2f027efee91366f3d3bdaf5367858f821 HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-security/universe/dep11/by-hash/SHA256/36dfd4b103445fd1c67c71a4799481d1c30260cac797717cb468d85da06107ea HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-security/universe/dep11/by-hash/SHA256/477342919aa123458865cae407b2e063519e4776ae0b41f3259fa319ceac1704 HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/#�N�)��
+POST / HTTP/1.1Host: ocsp.godaddy.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+�_lkv��8��f�R34N@½'��4�0�3��l��,��>��c3�
+GET /wp-content/uploads/2017/07/Screen-Shot-2017-07-01-at-4.15.47-PM-372x248.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+MDTM /dists/ubuntu/12.04/i18n/Translation-en_CA.gz
+GET /ncsi.txt HTTP/1.1Connection: CloseUser-Agent: Microsoft NCSIHost: www.msftncsi.com
+SIZE /dists/ubuntu/contrib/binary-i386/Packages.gz
+POST / HTTP/1.1Host: ocsp.sca1b.amazontrust.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+3���f�]:M>q8�Y�fR�{��<��'�t[�=��9~�=	A*=�|�
+SIZE /dists/ubuntu/contrib/i18n/Index
+SIZE /dists/ubuntu/contrib/source/Sources.gz
+GET /static/mws-new/WeatherImages/210x173/1.jpg?a HTTP/1.1Connection: Keep-AliveAccept: */*Accept-Encoding: identityRange: bytes=0-4693User-Agent: Microsoft BITS/7.8Host: blob.weather.microsoft.com
+RETR /dists/ubuntu/contrib/binary-i386/Packages.gz
+SIZE /dists/ubuntu/contrib/binary-i386/Packages.bz2
+POST /dms/metadata.svc HTTP/1.1Connection: Keep-AliveContent-Type: text/xml; charset="UTF-16LE"User-Agent: MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENTSOAPAction: "http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms/DeviceMetadataService/GetDeviceMetadata"Content-Length: 1900Host: dmd.metaservices.microsoft.com
+GET /ubuntu/dists/xenial-updates/InRelease HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Mon, 03 Jul 2017 11:44:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+RETR /dists/ubuntu/12.04/i18n/Translation-en.lzma
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBRIt2RJ89X%2B%2BhEzqoBeQg8PymQ2UQQUANhaTCXBIuWLMe9tuvPMXynxDWECEDWXMYfzhzoHMn7OWAybfto%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: ocsp.verisign.com
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,�������U�z�sҕ,�ؿ
+SIZE /dists/ubuntu/contrib/i18n/Translation-en.lzma
+GET /sync?nid=1&_1499083590283 HTTP/1.1Host: sync.srv.stackadapt.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+�&���~���B�/j��_Qh���u<��edb��Yr;��׉��f&1~��|
+POST / HTTP/1.1Host: gv.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 70Content-Type: application/ocsp-requestConnection: keep-alive0D0B0@0>0<0	+@Fz���	��`~~Y7H$�Ü���F4��F�|[���Y�b
+GET /msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?b721739451afc4f1 HTTP/1.1Connection: Keep-AliveAccept: */*If-Modified-Since: Thu, 20 Apr 2017 16:02:20 GMTIf-None-Match: "04e707defb9d21:0"User-Agent: Microsoft-CryptoAPI/10.0Host: ctldl.windowsupdate.com
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,�����j�'��w�䵚ܝ��
+STOR 2da609d2a9c242b4a6da79759b611db2.txt
+MDTM /dists/ubuntu/contrib/binary-i386/Packages
+GET /ubuntu/dists/xenial-backports/InRelease HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 02 Jul 2017 10:58:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+MDTM /dists/ubuntu/contrib/source/Sources.lzma
+��<?xml version="1.0" encoding="UTF-16"?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Header><h:cd xmlns:h="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><h:cv>10.0.10240</h:cv><h:cc>CAN</h:cc></h:cd></s:Header><s:Body><DeviceMetadataBatchRequest xmlns="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><LocList><loc>MultiLoc</loc><loc>en-US</loc><loc>en</loc></LocList><MIDRequests></MIDRequests><HWIDRequests><gdmdhwid><rid>9</rid><hwids><hwid>DOID:USB\VID_04B3&amp;PID_310B&amp;REV_0160</hwid><hwid>DOID:HID\VID_04B3&amp;PID_310B&amp;REV_0160</hwid><hwid>DOID:USB\VID_04B3&amp;PID_310B</hwid><hwid>DOID:HID\VID_04B3&amp;PID_310B</hwid><hwid>DOID:HID\VID_04B3&amp;UP:0001_U:0002</hwid><hwid>DOID:HID_DEVICE_SYSTEM_MOUSE</hwid><hwid>DOID:HID_DEVICE_UP:0001_U:0002</hwid><hwid>DOID:HID_DEVICE</hwid></hwids></gdmdhwid></HWIDRequests></DeviceMetadataBatchRequest></s:Body></s:Envelope>
+STOR 22ac931038ac4c4d9ec973e72b2b9bbe.txt
+0Q0O0M0K0I0	+�鲇����B�>I�$&��e�����0	�C9��313=x��vI`�a}��ʆ*
+RETR /dists/ubuntu/12.04/source/Sources
+GET /wp-content/themes/oldmusic/images/twitter-icon.jpg HTTP/1.1Host: www.iloveoldschoolmusic.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+MDTM /dists/ubuntu/contrib/i18n/Translation-en_CA.bz2
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����	K3�ߖ)_�/Fv$�
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/)𤃗��
+GET /meta-release-lts HTTP/1.1Accept-Encoding: identityUser-Agent: Python-urllib/3.5Host: changelogs.ubuntu.comCache-Control: No-CacheIf-Modified-Since: Tue May 16 14:58:25 2017Connection: closePragma: no-cache
+GET /ubuntu/dists/xenial-security/InRelease HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 02 Jul 2017 10:58:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+MDTM /dists/ubuntu/12.04/source/Sources
+POST / HTTP/1.1Host: ocsp.entrust.netUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 79Content-Type: application/ocsp-requestConnection: keep-alive0M0K0I0G0E0	+�m"��U,/��_Z����΃���ptݼS?�{����`�L�IX�P�$R
+POST / HTTP/1.1Host: ss.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+ѱd����k���+P����d_`�a�U߄C�`*��z�C�_��RQ��*b�
+SIZE /dists/ubuntu/contrib/binary-i386/Packages
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+�&���~���B�/j��_Qh���u<��edb��Yr;�OҲ��\m���=L
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/U��S�
+STOR 68ab1e70d5d74422896ea79ced926be2.txt
+SIZE /dists/ubuntu/contrib/binary-i386/Packages.xz
+MDTM /dists/ubuntu/contrib/binary-i386/Packages.gz
+GET /msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?d94f26b42ef46d22 HTTP/1.1Connection: Keep-AliveAccept: */*If-Modified-Since: Thu, 20 Apr 2017 16:02:20 GMTIf-None-Match: "04e707defb9d21:0"User-Agent: Microsoft-CryptoAPI/10.0Host: ctldl.windowsupdate.com
+RETR /dists/ubuntu/12.04/i18n/Translation-en.gz
+GET /ubuntu/dists/xenial-security/main/dep11/by-hash/SHA256/68db4475ffffc782dcab2961cab58b8eb3c5ffe4479f15c4d9fba97e143aa77c HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+POST / HTTP/1.1Host: ocsp.sca1b.amazontrust.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+3���f�]:M>q8�Y�fR�{��<��'�t[�=�tYR�;v�J���d�
+POST /fwlink/?LinkID=252669&clcid=0x409 HTTP/1.1Connection: Keep-AliveContent-Type: text/xml; charset="UTF-16LE"User-Agent: MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENTSOAPAction: "http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms/DeviceMetadataService/GetDeviceMetadata"Content-Length: 1900Host: go.microsoft.com
+POST / HTTP/1.1Host: ocsp.entrust.netUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 71Content-Type: application/ocsp-requestConnection: keep-alive0E0C0A0?0=0	+�m"��U,/��_Z����΃���ptݼS?�{����`�L�P�IR
+USER anonymous
+MDTM /dists/ubuntu/12.04/binary-i386/Packages.lzma
+RETR /dists/ubuntu/12.04/source/Sources.gz
+STOR 2570213ce3ef43b0b2a0e9d59863e067.txt
+RETR /dists/ubuntu/contrib/source/Sources.gz
+GET /ubuntu/dists/xenial-backports/main/dep11/by-hash/SHA256/e69c6ca69b25f8faa934e5c3e5988f0e646e243a67b6c7c37b2ac9217963f32b HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-backports/universe/dep11/by-hash/SHA256/a2d568761c0d2ad5f7fc4d591b875685bb8a64386bccf43a3ec15d02765c56f1 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+RETR /dists/ubuntu/contrib/binary-i386/Packages.lzma
+RETR /dists/ubuntu/12.04/i18n/Translation-en_CA
+GET /wp-content/uploads/2015/05/bbking-smiling-blog-pic-365x284.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+MDTM /dists/ubuntu/contrib/source/Sources.bz2
+GET /msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?8c69cf5a6f869774 HTTP/1.1Connection: Keep-AliveAccept: */*If-Modified-Since: Thu, 20 Apr 2017 16:02:20 GMTIf-None-Match: "04e707defb9d21:0"User-Agent: Microsoft-CryptoAPI/6.1Host: ctldl.windowsupdate.com
+SIZE /dists/ubuntu/12.04/binary-i386/Packages.gz
+STOR 9a7925de04ca429f8cc2c0aec5cad910.txt
+MDTM /dists/ubuntu/12.04/i18n/Translation-en.gz
+MDTM /dists/ubuntu/12.04/source/Sources.xz
+POST / HTTP/1.1Host: ocsp.comodoca.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+z�>��*,�(��F@����j:�Zؐ�Vs�C�:(��ȋ��~0qJ���:
+GET /wp-content/uploads/2016/08/fb-paris-jackson-365x284.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+RETR /dists/ubuntu/12.04/i18n/Translation-en_CA.lzma
+SIZE /dists/ubuntu/contrib/i18n/Translation-en.gz
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����5��Ĉ�!�1l�JW
+GET /ubuntu/dists/xenial-updates/InRelease HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 02 Jul 2017 10:58:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+GET /c/msdownload/update/others/2017/07/25177776_8bface4ce01d8952e15c81e16479fc13d7f2ab7d.cab HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Windows-Update-Agent/10.0.10011.16485 Client-Protocol/1.32Host: download.windowsupdate.com
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,������wҾ榎Βh��
+GET /wp-content/uploads/2017/05/FI-Brandy-372x248.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,������=%+t�=�޺�%
+STOR 97b1d466d6b24be1bbc7954b8df13e3c.txt
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����	��CUR/�9`W
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBTO3jAJoCaQZUo7%2B2qJhdK4D6wpuQQUqkwAvoiA5mAvIL8uAwdOcMH2iFUCEA3pK%2FDU2CmIGDIFCV6adog%3D HTTP/1.1Cache-Control: no-cacheConnection: Keep-AlivePragma: no-cacheAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: ocsp.verisign.com
+RETR /dists/ubuntu/12.04/binary-i386/Packages.lzma
+RETR /dists/ubuntu/contrib/source/Sources
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+I����v���@-h;qj��=�P�֠���J`e�!����f>�iI��d��
+RETR /dists/ubuntu/12.04/source/Sources.xz
+��<?xml version="1.0" encoding="UTF-16"?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Header><h:cd xmlns:h="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><h:cv>10.0.10240</h:cv><h:cc>CAN</h:cc></h:cd></s:Header><s:Body><DeviceMetadataBatchRequest xmlns="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><LocList><loc>MultiLoc</loc><loc>en-US</loc><loc>en</loc></LocList><MIDRequests><gdmdmid><rid>8</rid><mid>0AC68EAF-41D8-5B95-BCCF-7C1E95FC1FDB</mid></gdmdmid></MIDRequests><HWIDRequests></HWIDRequests></DeviceMetadataBatchRequest></s:Body></s:Envelope>
+GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?d028d257889fd029 HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: ctldl.windowsupdate.com
+RETR /dists/ubuntu/12.04/source/Sources.bz2
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+ߪ�(�	A��B��G@B�X��>�i��GԘ&�cd+�y�D��� �a_�k�
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,�������U�z�sҕ,�ؿ
+RETR /dists/ubuntu/contrib/i18n/Translation-en.bz2
+SIZE /dists/ubuntu/12.04/i18n/Index
+RETR /dists/ubuntu/contrib/i18n/Translation-en_CA.bz2
+0Q0O0M0K0I0	+���S,t7ҝ�፣l�W��o���?r<0}#څx��|Z|x�9�;�?��mz��v�
+GET /wp-content/themes/oldmusic/images/mlogo.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: gp.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+G�b(���ػ+�6'�R��ـ��'P�����2�|��O�oNC�nC�&kyh߇�f3
+0Q0O0M0K0I0	+�C%ڱ����`M���B�;S�y3��}��.+�ʷ�rf7��Y��R����7��}
+GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQmECJms4f7i5EbxtN7NbzQCBwAdAQUUa8kJpz0aCJXgCYrO0ZiFXsezKUCE1oAA1zzlDAshEyreOAAAQADXPM%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: ocsp.msocsp.com
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,�����ǝ��Pr�Tz��
+GET /singletile/summary/alias/experiencebyname/today?market=en-GB&tenant=amp&vertical=sports HTTP/1.1Connection: Keep-AliveUser-Agent: Microsoft-WNS/10.0Host: cdn.content.prod.cms.msn.com
+GET /en-GB/livetile/preinstall?region=CA&appid=C98EA5B0842DBB9405BBF071E1DA76512D21FE36&FORM=Threshold HTTP/1.1Connection: Keep-AliveUser-Agent: Microsoft-WNS/10.0Host: tile-service.weather.microsoft.com
+RETR /dists/ubuntu/contrib/i18n/Index
+��<?xml version="1.0" encoding="UTF-16"?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Header><h:cd xmlns:h="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><h:cv>10.0.10240</h:cv><h:cc>CAN</h:cc></h:cd></s:Header><s:Body><DeviceMetadataBatchRequest xmlns="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><LocList><loc>MultiLoc</loc><loc>en-US</loc><loc>en</loc></LocList><MIDRequests><gdmdmid><rid>4</rid><mid>0AC68EAF-41D8-5B95-BCCF-7C1E95FC1FDB</mid></gdmdmid></MIDRequests><HWIDRequests></HWIDRequests></DeviceMetadataBatchRequest></s:Body></s:Envelope>
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+I����v���@-h;qj��=�P�֠���J`e�!����(���B�5���e�
+MDTM /dists/ubuntu/contrib/source/Sources
+STOR f6a7a08546c14cc2996b01bb40dfbcf6.txt
+RETR /dists/ubuntu/contrib/i18n/Translation-en_CA
+GET /success.txt HTTP/1.1Host: detectportal.firefox.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateCache-Control: no-cachePragma: no-cacheConnection: keep-alive
+RETR /dists/ubuntu/contrib/i18n/Translation-en.xz
+MDTM /dists/ubuntu/12.04/source/Sources.lzma
+STOR 791171545c0243ed86ffc5686bdc0449.txt
+STOR ff1502b41f46428a82f0fece4aabf9a1.txt
+MDTM /dists/ubuntu/12.04/i18n/Index
+GET /wp-content/uploads/2017/05/fb-mary-j-and-kendu100-183x103.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+RETR /dists/ubuntu/contrib/i18n/Translation-en
+RETR /dists/ubuntu/12.04/i18n/Translation-en_CA.xz
+GET /pki/crl/products/MicrosoftTimeStampPCA.crl HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/6.1Host: crl.microsoft.com
+POST /dms/metadata.svc HTTP/1.1Connection: Keep-AliveContent-Type: text/xml; charset="UTF-16LE"User-Agent: MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENTSOAPAction: "http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms/DeviceMetadataService/GetDeviceMetadata"Content-Length: 1242Host: dmd.metaservices.microsoft.com
+PASS apt_get_ftp_2.1@debian.linux.user
+MDTM /dists/ubuntu/contrib/i18n/Translation-en_CA.lzma
+RETR /dists/ubuntu/contrib/i18n/Translation-en_CA.xz
+RETR /dists/ubuntu/Release
+STOR 115dabf9c0874f708ae068cf5a0b28fd.txt
+RETR /dists/ubuntu/12.04/i18n/Translation-en.xz
+GET /ubuntu/dists/xenial-updates/InRelease HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 02 Jul 2017 11:23:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+SIZE /dists/ubuntu/12.04/i18n/Translation-en_CA.lzma
+MDTM /dists/ubuntu/contrib/i18n/Translation-en_CA
+STOR ef91f9358c1a4eb3999f066d7850dfed.txt
+SIZE /dists/ubuntu/12.04/i18n/Translation-en_CA
+SIZE /dists/ubuntu/contrib/i18n/Translation-en
+STOR 66dcb2fc02a14a1ea26aab873ff04e22.txt
+GET /ubuntu/dists/xenial-backports/InRelease HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Mon, 03 Jul 2017 11:44:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+GET /wp-content/uploads/2017/06/FI-Ice-Cube-LL-and-Whoopi-183x103.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+GET /ubuntu/dists/xenial/InRelease HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Thu, 21 Apr 2016 23:24:48 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+SIZE /dists/ubuntu/Release.gpg
+SIZE /dists/ubuntu/contrib/source/Sources.bz2
+MDTM /dists/ubuntu/12.04/i18n/Translation-en_CA
+GET /wp-content/uploads/2016/01/fb-coko-and-rapper-365x284.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+GET /usersync?b=sta&i=0-2d43b2fa-1e96-46df-6e82-f214fa953b58$ip$205.174.165.80 HTTP/1.1Host: rtb.gumgum.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateCookie: loc=OkD6KCdmh_BpQtu9LeQhO-jazhiUgQ-bzqo7cZh9guzXyveW9d0wdKZ-Iuon6DuhTH3C4RAXQXI0gvMiH8lqxLrijHGl5kqX; vst=72824110-f106-4544-90af-0179b24d3660Connection: keep-alive
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,�����ǝ��Pr�Tz��
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/+alQ��}
+GET /msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?8645627fa6b4aed7 HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/6.1Host: ctldl.windowsupdate.com
+GET /ubuntu/dists/xenial-updates/main/dep11/by-hash/SHA256/68c7a1178d85f6ad362e2c1397abbcef8c7c4245b6f725ffe3d2f6ae7c0c4d84 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/main/dep11/by-hash/SHA256/eb7de0ee9181f92f495673de1d6599e370cbec192e07132a48f8e55a43d20876 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/universe/dep11/by-hash/SHA256/2ba3503f70c8741759074b2151d474029552a2467605ec685fbfd10b41fae061 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/universe/dep11/by-hash/SHA256/16d974a1492c069a9f0dfa5e893d8c1f77ef788be1a4d56b2ee0b78ea6181b3c HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-updates/multiverse/dep11/by-hash/SHA256/44d442808a6599f1d85919b2737039f05c13c3511a94e533daec870897071d77 HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+GET /d/msdownload/update/others/2017/07/25177458_bbf8599243fb742b64db0b2b4fc3a435e4437409.cab HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Windows-Update-Agent/10.0.10011.16485 Client-Protocol/1.32Host: download.windowsupdate.com
+MDTM /dists/ubuntu/12.04/i18n/Translation-en_CA.bz2
+GET /teejee2008/ppa/ubuntu/dists/xenial/InRelease HTTP/1.1Host: ppa.launchpad.netCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 21 May 2017 10:31:34 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+MDTM /dists/ubuntu/12.04/binary-i386/Packages
+SIZE /dists/ubuntu/contrib/i18n/Translation-en_CA
+STOR a543d60f2d054cd3bbd593749f063da3.txt
+GET /wp-content/uploads/2017/01/fb-johnny-gill-365x284.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+SIZE /dists/ubuntu/12.04/source/Sources
+MDTM /dists/ubuntu/12.04/i18n/Translation-en.lzma
+SIZE /dists/ubuntu/Release
+GET /wp-content/uploads/2017/07/FI-wyclef-and-lauryn-hill.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+GET /wp-content/uploads/2016/03/oprah-tyler-perry-365x284.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,�������h�/�^����\
+STOR ad2d6bbebd0249a68da82e909ec73a08.txt
+GET /teejee2008/ppa/ubuntu/dists/xenial/InRelease HTTP/1.1Host: ppa.launchpad.netCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 02 Jul 2017 18:36:18 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+GET /wp-content/themes/oldmusic/images/logo.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+��<?xml version="1.0" encoding="UTF-16"?><s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Header><h:cd xmlns:h="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><h:cv>10.0.10240</h:cv><h:cc>CAN</h:cc></h:cd></s:Header><s:Body><DeviceMetadataBatchRequest xmlns="http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms"><LocList><loc>MultiLoc</loc><loc>en-US</loc><loc>en</loc></LocList><MIDRequests></MIDRequests><HWIDRequests><gdmdhwid><rid>9</rid><hwids><hwid>DOID:USB\VID_04B3&amp;PID_310B&amp;REV_0160</hwid><hwid>DOID:HID\VID_04B3&amp;PID_310B&amp;REV_0160</hwid><hwid>DOID:USB\VID_04B3&amp;PID_310B</hwid><hwid>DOID:HID\VID_04B3&amp;PID_310B</hwid><hwid>DOID:HID\VID_04B3&am
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/Vɷ���
+GET /wp-content/uploads/2017/06/FI-brandy-and-sir-the-baptist-183x103.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+RETR /dists/ubuntu/12.04/i18n/Translation-en
+GET /wp-content/uploads/2017/07/FI-wyclef-and-lauryn-hill-365x284.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+GET /wp-content/uploads/2017/06/FI-cosby10-365x284.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+SIZE /dists/ubuntu/contrib/source/Sources
+SIZE /dists/ubuntu/12.04/i18n/Translation-en_CA.gz
+GET /wp-content/uploads/2017/06/Screen-Shot-2017-06-27-at-6.38.25-PM-183x103.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: ocsp.godaddy.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 76Content-Type: application/ocsp-requestConnection: keep-alive0J0H0F0D0B0	+�_lkv��8��f�R34N@½'��4�0�3��l��,��	�����
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+�&���~���B�/j��_Qh���u<��edb��Yr;���Ϭa�Æo�5E��
+POST / HTTP/1.1Host: ocsp.comodoca.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 84Content-Type: application/ocsp-requestConnection: keep-alive0R0P0N0L0J0	+����h��ڨ��%=i{E��+�ϭO�/�*HH*�B�$�p���Ȯ�>��ݟU
+MDTM /dists/ubuntu/contrib/i18n/Translation-en_CA.xz
+POST / HTTP/1.1Host: gn.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+���S,t7ҝ�፣l�W��o���?r<0}#څx��|Z|e���w����n�T
+STOR 18c7374bc3f649ffad54e619b767fb6a.txt
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBTO3jAJoCaQZUo7%2B2qJhdK4D6wpuQQUqkwAvoiA5mAvIL8uAwdOcMH2iFUCEA3pK%2FDU2CmIGDIFCV6adog%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: ocsp.verisign.com
+SIZE /dists/ubuntu/contrib/source/Sources.xz
+MDTM /dists/ubuntu/Release.gpg
+STOR 86dfe4cf5eea413490546982c4bd8c60.txt
+MDTM /dists/ubuntu/12.04/i18n/Translation-en_CA.xz
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����5��Ĉ�!�1l�JW
+MDTM /dists/ubuntu/contrib/binary-i386/Packages.bz2
+SIZE /dists/ubuntu/12.04/binary-i386/Packages
+STOR 0fc25c830c3b49489250490f704f0370.txt
+SIZE /dists/ubuntu/12.04/binary-i386/Packages.xz
+MDTM /dists/ubuntu/12.04/source/Sources.gz
+GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQmECJms4f7i5EbxtN7NbzQCBwAdAQUUa8kJpz0aCJXgCYrO0ZiFXsezKUCE1oABgrODvOC6G16f8oAAQAGCs4%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: ocsp.msocsp.com
+STOR 4cdba8802b224255b2add776724c82c0.txt
+STOR c3aedb8d9b944df8944d70eaa202bec8.txt
+POST / HTTP/1.1Host: ocsp.comodoca.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 84Content-Type: application/ocsp-requestConnection: keep-alive0R0P0N0L0J0	+����h��ڨ��%=i{E��+�ϭO�/�*HH*�B�$�wAob�rO)�
+STOR 57a63c764c6f483eb0ab4146ed4212a4.txt
+POST / HTTP/1.1Host: ocsp.comodoca.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 84Content-Type: application/ocsp-requestConnection: keep-alive0R0P0N0L0J0	+z�>��*,�(��F@����j:�Zؐ�Vs�C�:(���p���ҧ)��M:�7J
+MDTM /dists/ubuntu/12.04/i18n/Translation-en_CA.lzma
+POST / HTTP/1.1Host: sg.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+�v����=�H:��p0����b �}�|�;o��2lR��B�@�r]�Q�#��u�D
+RETR /dists/ubuntu/contrib/binary-i386/Packages.bz2
+STOR b9e22eaad99b43999d0a2c55400ebea1.txt
+RETR /dists/ubuntu/12.04/binary-i386/Packages.bz2
+STOR f67d4eac4fa1473d958f8806d81e2046.txt
+SIZE /dists/ubuntu/12.04/i18n/Translation-en.bz2
+GET /ubuntu/dists/xenial-backports/InRelease HTTP/1.1Host: ca.archive.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 02 Jul 2017 11:23:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+STOR 9fd528bd91f1414fbcea79f6a61a8416.txt
+POST /gsorganizationvalsha2g2 HTTP/1.1Host: ocsp2.globalsign.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 85Content-Type: application/ocsp-requestConnection: keep-alive0S0Q0O0M0K0	+�M�=��ؑ�r�τ�{��a�)S��};�@�|!M�>t���T'u�V;)
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����	��CUR/�9`W
+RETR /dists/ubuntu/12.04/i18n/Index
+RETR /dists/ubuntu/contrib/source/Sources.bz2
+GET /tss-ca.crl HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: crl.verisign.com
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/#�N�)��
+USER iscxtap
+MDTM /dists/ubuntu/contrib/source/Sources.xz
+STOR 6cf353fdffb54f4b8e46e2c67e8effa4.txt
+RETR /dists/ubuntu/12.04/binary-i386/Packages
+GET /singletile/summary/alias/experiencebyname/today?market=en-GB&tenant=amp&vertical=finance HTTP/1.1Connection: Keep-AliveUser-Agent: Microsoft-WNS/10.0Host: cdn.content.prod.cms.msn.com
+STOR a93e46eb52824015bc3cf252d2ed6086.txt
+GET /d/msdownload/update/others/2017/07/25177161_48c5bf753b5cdccea12a40277c8ea632efae3815.cab HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Windows-Update-Agent/10.0.10011.16485 Client-Protocol/1.32Host: download.windowsupdate.com
+POST / HTTP/1.1Host: ocsp.sca1b.amazontrust.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+3���f�]:M>q8�Y�fR�{��<��'�t[�=����+L�8=m���s�
+GET /success.txt HTTP/1.1Host: detectportal.firefox.comUser-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateCache-Control: no-cachePragma: no-cacheConnection: keep-alive
+SIZE /dists/ubuntu/12.04/i18n/Translation-en
+MDTM /dists/ubuntu/Release
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQJ1TBLBrQ9OnPHXPVaWb87MxkNlgQUwu79F9f%2Btw%2FGciJ7fvbA4gIz7D4CEEe%2FGZXfjVJGQ%2FfbbUgNMaQ%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: ocsp.verisign.com
+SIZE /dists/ubuntu/12.04/i18n/Translation-en.gz
+STOR 1cdb0b2c411445cb83b4bc4491bb5a71.txt
+POST /fwlink/?LinkID=252669&clcid=0x409 HTTP/1.1Connection: Keep-AliveContent-Type: text/xml; charset="UTF-16LE"User-Agent: MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENTSOAPAction: "http://schemas.microsoft.com/windowsmetadata/services/2007/09/18/dms/DeviceMetadataService/GetDeviceMetadata"Content-Length: 1242Host: go.microsoft.com
+POST / HTTP/1.1Content-type: application/ocsp-requestUser-Agent: Java/1.8.0_121Host: s2.symcb.comAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Connection: keep-aliveContent-Length: 83
+POST / HTTP/1.1Host: gv.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 70Content-Type: application/ocsp-requestConnection: keep-alive0D0B0@0>0<0	+@Fz���	��`~~Y7H$�Ü���F4��F�|[���Y��
+RETR /dists/ubuntu/contrib/source/Sources.xz
+STOR f153f8ae55e74e188424ab03dd91f266.txt
+RETR /dists/ubuntu/contrib/binary-i386/Packages.xz
+GET /wp-content/themes/oldmusic/images/facebook-icon.jpg HTTP/1.1Host: www.iloveoldschoolmusic.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+RETR /dists/ubuntu/12.04/i18n/Translation-en_CA.bz2
+GET /msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?a95239a69dade2d1 HTTP/1.1Connection: Keep-AliveAccept: */*If-Modified-Since: Thu, 20 Apr 2017 16:02:20 GMTIf-None-Match: "04e707defb9d21:0"User-Agent: Microsoft-CryptoAPI/6.1Host: ctldl.windowsupdate.com
+GET /pki/crl/products/WinPCA.crl HTTP/1.1Cache-Control: max-age = 900Connection: Keep-AliveAccept: */*If-Modified-Since: Wed, 02 Dec 2015 18:30:06 GMTIf-None-Match: "0cb60772f2dd11:0"User-Agent: Microsoft-CryptoAPI/6.1Host: crl.microsoft.com
+PASV
+MDTM /dists/ubuntu/12.04/i18n/Translation-en.xz
+MDTM /dists/ubuntu/contrib/i18n/Translation-en.lzma
+GET /success.txt HTTP/1.1Host: detectportal.firefox.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateCache-Control: no-cachePragma: no-cacheConnection: keep-alive
+GET /c/msdownload/update/others/2017/07/25178326_5269d2e59e00dfa662daf68d0d72ef8c271a622a.cab HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Windows-Update-Agent/10.0.10011.16485 Client-Protocol/1.32Host: download.windowsupdate.com
+GET /wp-content/uploads/2017/06/FI-cosby10-372x248.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+POST / HTTP/1.1Host: gp.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+G�b(���ػ+�6'�R��ـ��'P�����2�|��O�o=dQ��. ��S�gsc
+QUIT
+POST /ocsp HTTP/1.1Host: clients1.google.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 75Content-Type: application/ocsp-requestConnection: keep-alive0I0G0E0C0A0	+��j����p�I#z��(~dJ���h�v����b�Z�/#�N�)��
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBS56bKHAoUD%2BOyl%2B0LhPg9JxyQm4gQUf9Nlp8Ld7LvwMAnzQzn6Aq8zMTMCED141%2Fl2SWCyYX308B7Khio%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/6.1Host: s2.symcb.com
+GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?0dfb851e7451fa47 HTTP/1.1Connection: Keep-AliveAccept: */*If-Modified-Since: Fri, 02 Jun 2017 17:39:05 GMTIf-None-Match: "80424021c7dbd21:0"User-Agent: Microsoft-CryptoAPI/10.0Host: ctldl.windowsupdate.com
+POST / HTTP/1.1Host: gp.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+G�b(���ػ+�6'�R��ـ��'P�����2�|��O�oNwvu&��^���
+MDTM /dists/ubuntu/contrib/i18n/Translation-en.bz2
+GET /ubuntu/dists/xenial-security/InRelease HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Mon, 03 Jul 2017 11:30:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+RETR /dists/ubuntu/12.04/binary-i386/Packages.xz
+RETR /dists/ubuntu/contrib/i18n/Translation-en_CA.lzma
+GET /ppcrlcheck.srf HTTP/1.0Connection: Keep-AliveAccept: */*User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 10.0; .NET4.0C; .NET4.0E; IDCRL 11.10.0.10011.16506; IDCRL-cfg 16.0.26889.0; App svchost.exe, 10.0.10240.16384, {DF60E2DF-88AD-4526-AE21-83D130EF0F68})Host: login.live.com
+SIZE /dists/ubuntu/12.04/source/Sources.bz2
+POST / HTTP/1.1Host: ocsp.digicert.comUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+_�z���'�5΃C�����a�1a�/(�F8�,����A�;��ź�`�
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBS56bKHAoUD%2BOyl%2B0LhPg9JxyQm4gQUf9Nlp8Ld7LvwMAnzQzn6Aq8zMTMCEH7hSm9v7%2FLTfz%2BtZU062rQ%3D HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Microsoft-CryptoAPI/10.0Host: s2.symcb.com
+MDTM /dists/ubuntu/contrib/i18n/Translation-en.xz
+MDTM /dists/ubuntu/12.04/source/Sources.bz2
+MDTM /dists/ubuntu/contrib/i18n/Translation-en.gz
+GET /wp-content/uploads/2017/07/Kim-Wayans-Marriage-FEATURED-IMAGE-604x270-372x248.jpg HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+STOR d9409debfb1b4afd9f62bfc96ffa29ab.txt
+POST / HTTP/1.1Content-type: application/ocsp-requestUser-Agent: Java/1.8.0_121Host: gn.symcd.comAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Connection: keep-aliveContent-Length: 83
+PASS 1234
+MDTM /dists/ubuntu/12.04/binary-i386/Packages.gz
+GET /ubuntu/dists/xenial-security/main/dep11/by-hash/SHA256/6845aedab22a69b44196419c85fa89c2f027efee91366f3d3bdaf5367858f821 HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-security/universe/dep11/by-hash/SHA256/19dc80ea04d832d5d697396264f6f2ac717c66bb705842afe562391ed73ff09e HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)GET /ubuntu/dists/xenial-security/universe/dep11/by-hash/SHA256/477342919aa123458865cae407b2e063519e4776ae0b41f3259fa319ceac1704 HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+POST / HTTP/1.1Host: gn.symcd.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+���S,t7ҝ�፣l�W��o���?r<0}#څx��|Z|Y�!Lu@��Y2���ci
+MDTM /dists/ubuntu/12.04/i18n/Translation-en.bz2
+MDTM /dists/ubuntu/contrib/binary-i386/Packages.xz
+SIZE /dists/ubuntu/12.04/binary-i386/Packages.bz2
+SIZE /dists/ubuntu/contrib/binary-i386/Packages.lzma
+STOR 65f2ce53de02408abf0f0b39849d66a3.txt
+GET /teejee2008/ppa/ubuntu/dists/xenial/main/binary-i386/by-hash/SHA256/1049f85d77201511eee6b3c2f5bb91182c57f08aa2017386e4e6db6d90d20832 HTTP/1.1Host: ppa.launchpad.netCache-Control: max-age=0Accept: text/*User-Agent: Debian APT-HTTP/1.3 (1.2.19)
+RETR /dists/ubuntu/contrib/binary-i386/Packages
+HEAD /v11/2/windowsupdate/redir/v6-win7sp1-wuredir.cab?1707031205 HTTP/1.1Connection: Keep-AliveAccept: */*User-Agent: Windows-Update-AgentHost: ds.download.windowsupdate.com
+POST / HTTP/1.1Host: ocsp.sca1b.amazontrust.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateContent-Length: 83Content-Type: application/ocsp-requestConnection: keep-alive0Q0O0M0K0I0	+3���f�]:M>q8�Y�fR�{��<��'�t[�=�!R>���TB����@t
+SIZE /dists/ubuntu/12.04/i18n/Translation-en.lzma
+GET /wp-content/uploads/2017/07/FI-dave-chappelle-and-cosby-365x284.png HTTP/1.1Host: ilosm.cdnize.comUser-Agent: Mozilla/5.0 (Windows NT 10.0; rv:54.0) Gecko/20100101 Firefox/54.0Accept: */*Accept-Language: en-US,en;q=0.5Accept-Encoding: gzip, deflateConnection: keep-alive
+MDTM /dists/ubuntu/12.04/binary-i386/Packages.bz2
+STOR c769fb06a8f64df4bda0f0f7a4dde7a6.txt
+SIZE /dists/ubuntu/12.04/binary-i386/Packages.lzma
+GET /ubuntu/dists/xenial-security/InRelease HTTP/1.1Host: security.ubuntu.comCache-Control: max-age=0Accept: text/*If-Modified-Since: Sun, 02 Jul 2017 11:23:00 GMTUser-Agent: Debian APT-HTTP/1.3 (1.2.19)
+SIZE /dists/ubuntu/contrib/i18n/Translation-en_CA.bz2
