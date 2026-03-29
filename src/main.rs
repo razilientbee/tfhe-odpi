@@ -48,8 +48,8 @@ fn main() {
     // --------------------------------------------------------
     // Configuration
     // --------------------------------------------------------
-    let payload_file = "data/test_dataset_2.txt";
-    let rule_file    = "data/test_ruleset_1.txt";
+    let payload_file = "data/cicids_dataset_shuffled.txt";
+    let rule_file    = "data/ftp_patator_ruleset.txt";
     let fp_rate      = 0.1;
 
     // --------------------------------------------------------
