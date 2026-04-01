@@ -59,6 +59,7 @@ pub mod bloom;
 // Stage 2 — data loading
 pub mod data_loader;
 pub mod normalizer;
+pub mod metrics;
 
 // Stage 3 — pipeline
 pub mod payload_processor;
