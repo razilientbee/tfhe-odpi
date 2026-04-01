@@ -50,6 +50,7 @@ use tfhe_odpi::data_loader::load_payloads;
 use tfhe_odpi::payload_processor::{process_payloads_multigroup, RuleGroup};
 use tfhe_odpi::bloom::BloomFilter;
 use tfhe_odpi::rules::EncryptedRules;
+use tfhe_odpi::normalizer::normalize_payloads;
 
 use std::fs;
 use std::time::Instant;
@@ -174,6 +175,10 @@ fn main() {
     println!("\nLoading payload dataset...");
     let payloads = load_payloads(payload_file);
     println!("  Loaded {} payload(s)", payloads.len());
+
+    // Normalise payloads to lowercase before encryption
+    let payloads = normalize_payloads(payloads);
+    println!("  Normalization complete");
 
     // --------------------------------------------------------
     // Stage 4 — Run multi-group ODPI
