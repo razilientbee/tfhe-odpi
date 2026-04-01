@@ -1,9 +1,0 @@
-USER
-PASS
-HTTP
-GET 
-POST
-wget
-bash
-root
-exec

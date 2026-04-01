@@ -4,11 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-tfhe= {version="0.4", default-features=false, features= ["boolean","seeder_unix"] }
-rayon= "1.8"
-
-
-[[bin]]
-name = "benchmark"
-path = "src/bin/benchmark.rs"
-
+tfhe = {version = "0.4", default-features = false, features = ["boolean", "seeder_unix"]}
+rayon = "1.8"

@@ -1,6 +1,0 @@
-cmd.exe
-/bin/sh
-wget htt
-UNION SE
-/etc/pas
-powershell
