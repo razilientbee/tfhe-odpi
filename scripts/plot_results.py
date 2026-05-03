@@ -121,13 +121,18 @@ legend_patches = [
     mpatches.Patch(color=COL_ACCURACY,  label="Accuracy"),
     mpatches.Patch(color=COL_PRECISION, label="Precision"),
 ]
+
 ax_top.legend(
     handles=legend_patches,
-    loc="lower right",
+    loc="upper center",
+    bbox_to_anchor=(0.5, -0.12),
     fontsize=7,
     frameon=False,
     ncol=2,
 )
+
+
+
  
 # ============================================================
 # (b) Wall time progression — single bar chart
@@ -156,6 +161,8 @@ for bar in bars_wall:
  
 # Legend
 wall_patch = mpatches.Patch(color=COL_WALL, label="Wall time")
+
+
 ax_bot.legend(
     handles=[wall_patch],
     loc="upper right",
