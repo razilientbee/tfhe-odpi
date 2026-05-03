@@ -1,0 +1,2 @@
+run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
+Run7-synthetic,370,0,96,185,0,89,0.7595,1.0000,0.5189,0.6833,0.0000,0.4811,0.5919,180.5,3762.9,22784,173,0.9924

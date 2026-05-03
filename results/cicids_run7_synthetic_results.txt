@@ -1,0 +1,450 @@
+   Compiling tfhe-odpi v0.1.0 (/home/vboxuser/tfhe-odpi)
+    Finished `release` profile [optimized] target(s) in 1.85s
+     Running `target/release/tfhe-odpi`
+Initializing TFHE keys...
+  Key generation: 1.271s
+
+Building group: [Group-A-5byte]
+  Loaded 3 rule(s) from data/group_a_rules.txt
+  Rule  0: "user "  (5 bytes)
+  Rule  1: "pass "  (5 bytes)
+  Rule  2: "stor "  (5 bytes)
+  Window length: 5 bytes
+  Rule encryption: 7.979ms
+  Bloom: m=64 bits  k=7 hashes  19/64 bits set  fp_rate=0.1
+
+Building group: [Group-B-6byte]
+  Loaded 3 rule(s) from data/group_b_rules.txt
+  Rule  0: "retr /"  (6 bytes)
+  Rule  1: "size /"  (6 bytes)
+  Rule  2: "mdtm /"  (6 bytes)
+  Window length: 6 bytes
+  Rule encryption: 9.680ms
+  Bloom: m=64 bits  k=7 hashes  20/64 bits set  fp_rate=0.1
+
+Loading payload dataset...
+  Loaded 370 payload(s)
+  Normalization complete
+  Loaded 370 label(s)
+
+Running ODPI...
+== Starting Encrypted ODPI (multi-group) ==
+   Packets  : 370
+   Groups   : 2
+     [Group-A-5byte]  window=5 bytes  rules=3
+     [Group-B-6byte]  window=6 bytes  rules=3
+
+[Packet  69] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=51.3ms
+[Packet  46] Alert=false  windows=  65  candidates=   0  pruned=100.0%  time=78.5ms
+[Packet  23] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=93.4ms
+[Packet  92] Alert=false  windows=  67  candidates=   0  pruned=100.0%  time=95.3ms
+[Packet  80] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=103.8ms
+[Packet  24] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=28.0ms
+[Packet  74] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=127.7ms
+[Packet  81] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=25.3ms
+[Packet  25] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=24.7ms
+[Packet  26] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=23.4ms
+[Packet  82] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=43.6ms
+[Packet  27] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=76.2ms
+[Packet  28] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=20.4ms
+[Packet   0] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9091.8ms
+[Packet   1] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=28.0ms
+[Packet  83] Alert=true   windows=  59  candidates=   1  pruned=98.3%  time=8966.8ms
+[Packet  84] Alert=false  windows=  59  candidates=   0  pruned=100.0%  time=15.3ms
+[Packet  85] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=24.4ms
+[Packet  70] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=9430.6ms
+[Packet  71] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.3ms
+[Packet  72] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.3ms
+[Packet  29] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=9257.1ms
+[Packet  73] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=17.7ms
+[Packet  30] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=35.8ms
+[Packet  75] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=9576.7ms
+[Packet 185] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=10792.3ms
+[Packet 186] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet  76] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=6958.9ms
+[Packet  77] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.3ms
+[Packet  78] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=44.8ms
+[Packet  86] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7742.4ms
+[Packet   2] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=8940.8ms
+[Packet   3] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet   4] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet 187] Alert=false  windows=  59  candidates=   1  pruned=98.3%  time=7628.1ms
+[Packet  93] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=18376.8ms
+[Packet  31] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=8942.9ms
+[Packet  47] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=18453.4ms
+[Packet  32] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet  33] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet  87] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7452.6ms
+[Packet  88] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=28.6ms
+[Packet  89] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet  90] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.2ms
+[Packet 138] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=15003.3ms
+[Packet 139] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.9ms
+[Packet 140] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet   5] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7181.7ms
+[Packet  48] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7054.2ms
+[Packet  49] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet  50] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.5ms
+[Packet 188] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7350.7ms
+[Packet  94] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7686.3ms
+[Packet  34] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7627.5ms
+[Packet  35] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet  36] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.4ms
+[Packet  37] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.5ms
+[Packet 141] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=7322.6ms
+[Packet 142] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=63.0ms
+[Packet 143] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.7ms
+[Packet 144] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet 145] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.9ms
+[Packet 146] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 147] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 148] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 149] Alert=false  windows=  67  candidates=   0  pruned=100.0%  time=17.2ms
+[Packet   6] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7223.4ms
+[Packet   7] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet   8] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.8ms
+[Packet  95] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=7011.4ms
+[Packet  96] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=24.5ms
+[Packet  51] Alert=false  windows=  63  candidates=   1  pruned=98.4%  time=7668.5ms
+[Packet  52] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=53.1ms
+[Packet  53] Alert=false  windows=  71  candidates=   0  pruned=100.0%  time=45.9ms
+[Packet  38] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7756.3ms
+[Packet  79] Alert=false  windows=  61  candidates=   2  pruned=96.7%  time=17335.2ms
+[Packet  11] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=16.9ms
+[Packet  12] Alert=false  windows=  71  candidates=   0  pruned=100.0%  time=18.4ms
+[Packet 189] Alert=false  windows=  67  candidates=   1  pruned=98.5%  time=9020.2ms
+[Packet 190] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.9ms
+[Packet 191] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 192] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet 193] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 194] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet   9] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7124.9ms
+[Packet  10] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.7ms
+[Packet 277] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 150] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7643.5ms
+[Packet  91] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16147.4ms
+[Packet  17] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.3ms
+[Packet  18] Alert=false  windows=  67  candidates=   0  pruned=100.0%  time=18.1ms
+[Packet  19] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.3ms
+[Packet  39] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7510.5ms
+[Packet  13] Alert=false  windows=  69  candidates=   1  pruned=98.6%  time=7454.2ms
+[Packet  14] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.3ms
+[Packet  54] Alert=false  windows=  67  candidates=   1  pruned=98.5%  time=9155.5ms
+[Packet 278] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=7395.7ms
+[Packet 279] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet  20] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7939.7ms
+[Packet  21] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet  22] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=29.4ms
+[Packet 151] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=8977.4ms
+[Packet 152] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet  40] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7450.3ms
+[Packet  15] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7673.9ms
+[Packet  16] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 346] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet  97] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16686.4ms
+[Packet  55] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7519.1ms
+[Packet  56] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=25.4ms
+[Packet 195] Alert=false  windows=  61  candidates=   2  pruned=96.7%  time=16691.6ms
+[Packet 280] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7993.3ms
+[Packet 281] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 153] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7513.6ms
+[Packet 154] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=18.7ms
+[Packet 155] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=17.0ms
+[Packet 156] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.4ms
+[Packet 157] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=23.4ms
+[Packet  98] Alert=false  windows=  59  candidates=   1  pruned=98.3%  time=7694.5ms
+[Packet  99] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=21.2ms
+[Packet  57] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=7571.4ms
+[Packet  58] Alert=false  windows=  71  candidates=   0  pruned=100.0%  time=20.5ms
+[Packet  59] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.1ms
+[Packet 323] Alert=false  windows=  65  candidates=   1  pruned=98.5%  time=9271.0ms
+[Packet  41] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9123.9ms
+[Packet  42] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=15.4ms
+[Packet 347] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9363.6ms
+[Packet 348] Alert=false  windows=  69  candidates=   0  pruned=100.0%  time=18.7ms
+[Packet 196] Alert=false  windows=  59  candidates=   1  pruned=98.3%  time=9235.3ms
+[Packet 158] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7389.4ms
+[Packet 159] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.0ms
+[Packet  43] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7064.1ms
+[Packet  44] Alert=false  windows=  59  candidates=   0  pruned=100.0%  time=37.5ms
+[Packet  45] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.7ms
+[Packet 349] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7734.3ms
+[Packet 350] Alert=false  windows=  65  candidates=   0  pruned=100.0%  time=17.3ms
+[Packet 351] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.2ms
+[Packet 352] Alert=false  windows=  59  candidates=   0  pruned=100.0%  time=15.9ms
+[Packet 353] Alert=false  windows=  69  candidates=   0  pruned=100.0%  time=15.2ms
+[Packet 197] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7061.3ms
+[Packet 198] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.9ms
+[Packet 199] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 200] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=90.4ms
+[Packet 201] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.2ms
+[Packet 202] Alert=false  windows=  65  candidates=   0  pruned=100.0%  time=18.0ms
+[Packet 203] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet 282] Alert=false  windows=  61  candidates=   2  pruned=96.7%  time=16500.3ms
+[Packet 115] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7031.0ms
+[Packet 160] Alert=false  windows=  63  candidates=   1  pruned=98.4%  time=8885.8ms
+[Packet 161] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet 162] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 163] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 164] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.4ms
+[Packet 354] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7535.7ms
+[Packet 355] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=17.5ms
+[Packet 356] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.1ms
+[Packet 100] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16938.0ms
+[Packet 101] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.9ms
+[Packet 102] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=51.0ms
+[Packet 103] Alert=false  windows=  65  candidates=   0  pruned=100.0%  time=14.4ms
+[Packet  60] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=17428.8ms
+[Packet  61] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet  62] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet  63] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=38.9ms
+[Packet 324] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=17444.0ms
+[Packet 204] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7533.3ms
+[Packet 205] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=14.8ms
+[Packet 206] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 283] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7646.8ms
+[Packet 284] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=36.7ms
+[Packet 285] Alert=false  windows=  71  candidates=   0  pruned=100.0%  time=32.3ms
+[Packet 165] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7752.6ms
+[Packet 116] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9081.2ms
+[Packet 117] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=17.0ms
+[Packet 104] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7490.1ms
+[Packet 105] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.9ms
+[Packet 106] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=31.1ms
+[Packet 107] Alert=false  windows=  65  candidates=   0  pruned=100.0%  time=15.9ms
+[Packet 108] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 109] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 110] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 111] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.9ms
+[Packet 207] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7215.7ms
+[Packet 325] Alert=false  windows=  65  candidates=   1  pruned=98.5%  time=9144.9ms
+[Packet 166] Alert=false  windows=  59  candidates=   1  pruned=98.3%  time=7659.1ms
+[Packet 357] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=14706.3ms
+[Packet 358] Alert=false  windows=  67  candidates=   0  pruned=100.0%  time=18.0ms
+[Packet 118] Alert=false  windows=  69  candidates=   1  pruned=98.6%  time=9273.7ms
+[Packet 119] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 120] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 208] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=8666.6ms
+[Packet 209] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=15.0ms
+[Packet  64] Alert=false  windows=  61  candidates=   2  pruned=96.7%  time=16433.5ms
+[Packet 326] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7515.2ms
+[Packet 327] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 328] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 167] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7670.2ms
+[Packet 168] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet 169] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.3ms
+[Packet 286] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16902.5ms
+[Packet 359] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7386.6ms
+[Packet 360] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 112] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=14749.4ms
+[Packet 210] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7873.4ms
+[Packet 329] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7433.2ms
+[Packet 170] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7454.3ms
+[Packet 171] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.0ms
+[Packet 172] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 173] Alert=false  windows=  69  candidates=   0  pruned=100.0%  time=18.7ms
+[Packet 174] Alert=false  windows=  65  candidates=   0  pruned=100.0%  time=16.5ms
+[Packet 175] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.1ms
+[Packet 176] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.3ms
+[Packet 113] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=6880.4ms
+[Packet 361] Alert=false  windows=  59  candidates=   1  pruned=98.3%  time=8751.9ms
+[Packet 362] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=16.2ms
+[Packet 287] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9028.7ms
+[Packet 288] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=21.2ms
+[Packet 289] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=22.4ms
+[Packet 211] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7373.8ms
+[Packet 212] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=26.2ms
+[Packet 213] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.5ms
+[Packet 214] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=46.8ms
+[Packet 330] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=7685.8ms
+[Packet 331] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=18.0ms
+[Packet  65] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16488.3ms
+[Packet  66] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet  67] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.1ms
+[Packet  68] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 177] Alert=false  windows=  69  candidates=   1  pruned=98.6%  time=7320.0ms
+[Packet 114] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7788.3ms
+[Packet 290] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7404.1ms
+[Packet 291] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=18.1ms
+[Packet 363] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7956.3ms
+[Packet 231] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=30.0ms
+[Packet 232] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=19.0ms
+[Packet 233] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.3ms
+[Packet 234] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=36.8ms
+[Packet 235] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.7ms
+[Packet 215] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=7675.1ms
+[Packet 216] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 121] Alert=true   windows=  61  candidates=   3  pruned=95.1%  time=24821.4ms
+[Packet 126] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7779.9ms
+[Packet 127] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.6ms
+[Packet 332] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=9439.0ms
+[Packet 178] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9357.3ms
+[Packet 179] Alert=false  windows=  69  candidates=   0  pruned=100.0%  time=15.1ms
+[Packet 180] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 181] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 182] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=18.0ms
+[Packet 183] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.1ms
+[Packet 184] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.9ms
+[Packet 236] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7030.1ms
+[Packet 292] Alert=false  windows=  63  candidates=   1  pruned=98.4%  time=7865.1ms
+[Packet 293] Alert=false  windows=  65  candidates=   0  pruned=100.0%  time=16.4ms
+[Packet 217] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7595.5ms
+[Packet 218] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet 128] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7308.1ms
+[Packet 129] Alert=false  windows=  59  candidates=   0  pruned=100.0%  time=13.3ms
+[Packet 130] Alert=false  windows=  69  candidates=   0  pruned=100.0%  time=15.0ms
+[Packet 131] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet 333] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7726.6ms
+[Packet 122] Alert=false  windows=  65  candidates=   1  pruned=98.5%  time=9552.1ms
+[Packet 123] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.0ms
+[Packet 124] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=49.5ms
+[Packet 125] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 364] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16340.4ms
+[Packet 237] Alert=false  windows=  67  candidates=   1  pruned=98.5%  time=9454.1ms
+[Packet 219] Alert=true   windows=  59  candidates=   1  pruned=98.3%  time=7636.1ms
+[Packet 132] Alert=false  windows=  63  candidates=   1  pruned=98.4%  time=8042.3ms
+[Packet 334] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7368.6ms
+[Packet 242] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=8910.9ms
+[Packet 243] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=17.0ms
+[Packet 244] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=21.0ms
+[Packet 245] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=17.0ms
+[Packet 246] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet 247] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=18.2ms
+[Packet 248] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 249] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.1ms
+[Packet 250] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 365] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7497.3ms
+[Packet 366] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.8ms
+[Packet 254] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16021.3ms
+[Packet 255] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=39.1ms
+[Packet 256] Alert=false  windows=  67  candidates=   0  pruned=100.0%  time=53.7ms
+[Packet 294] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16585.7ms
+[Packet 238] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7932.2ms
+[Packet 239] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=28.8ms
+[Packet 240] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=36.5ms
+[Packet 220] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=8063.4ms
+[Packet 221] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=14.4ms
+[Packet 335] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7605.1ms
+[Packet 133] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7997.7ms
+[Packet 134] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.8ms
+[Packet 251] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7791.3ms
+[Packet 252] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.9ms
+[Packet 253] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.8ms
+[Packet 367] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=8032.2ms
+[Packet 368] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 222] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7487.8ms
+[Packet 241] Alert=false  windows=  69  candidates=   1  pruned=98.6%  time=8626.3ms
+[Packet 295] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9314.0ms
+[Packet 296] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.3ms
+[Packet 297] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.9ms
+[Packet 298] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet 299] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 228] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.7ms
+[Packet 229] Alert=false  windows=  59  candidates=   0  pruned=100.0%  time=14.0ms
+[Packet 336] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7869.1ms
+[Packet 337] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 338] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=14.6ms
+[Packet 339] Alert=false  windows=  67  candidates=   0  pruned=100.0%  time=48.6ms
+[Packet 340] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 225] Alert=true   windows=  59  candidates=   1  pruned=98.3%  time=7268.5ms
+[Packet 369] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7918.6ms
+[Packet 300] Alert=false  windows=  63  candidates=   1  pruned=98.4%  time=7433.8ms
+[Packet 301] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=14.5ms
+[Packet 302] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 303] Alert=false  windows=  59  candidates=   0  pruned=100.0%  time=14.5ms
+[Packet 304] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 305] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 230] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7359.1ms
+[Packet 343] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.2ms
+[Packet 257] Alert=false  windows=  61  candidates=   2  pruned=96.7%  time=18334.6ms
+[Packet 258] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.5ms
+[Packet 259] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.4ms
+[Packet 223] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9426.5ms
+[Packet 224] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=32.9ms
+[Packet 135] Alert=false  windows=  61  candidates=   2  pruned=96.7%  time=16312.5ms
+[Packet 136] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 341] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9141.0ms
+[Packet 342] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 308] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 226] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7237.0ms
+[Packet 309] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=28.2ms
+[Packet 227] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7598.7ms
+[Packet 317] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.9ms
+[Packet 318] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=24.1ms
+[Packet 306] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7625.9ms
+[Packet 307] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.3ms
+[Packet 344] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=7494.0ms
+[Packet 311] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7443.3ms
+[Packet 312] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=13.6ms
+[Packet 313] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.5ms
+[Packet 314] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.6ms
+[Packet 260] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7926.8ms
+[Packet 261] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=21.7ms
+[Packet 310] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7268.8ms
+[Packet 316] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.4ms
+[Packet 271] Alert=false  windows=  63  candidates=   0  pruned=100.0%  time=15.2ms
+[Packet 272] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=20.2ms
+[Packet 265] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9289.9ms
+[Packet 266] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.0ms
+[Packet 267] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.4ms
+[Packet 319] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=9344.7ms
+[Packet 321] Alert=false  windows=  67  candidates=   0  pruned=100.0%  time=50.7ms
+[Packet 322] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.3ms
+[Packet 320] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7109.2ms
+[Packet 270] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=21.6ms
+[Packet 345] Alert=true   windows=  59  candidates=   1  pruned=98.3%  time=7319.8ms
+[Packet 275] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=15.7ms
+[Packet 262] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7300.2ms
+[Packet 315] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7503.1ms
+[Packet 264] Alert=false  windows=  61  candidates=   0  pruned=100.0%  time=16.4ms
+[Packet 273] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7540.5ms
+[Packet 137] Alert=true   windows=  61  candidates=   2  pruned=96.7%  time=16217.8ms
+[Packet 268] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=7222.1ms
+[Packet 269] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=6382.3ms
+[Packet 276] Alert=true   windows=  61  candidates=   1  pruned=98.4%  time=6564.8ms
+[Packet 263] Alert=false  windows=  61  candidates=   1  pruned=98.4%  time=6045.5ms
+[Packet 274] Alert=false  windows=  59  candidates=   2  pruned=96.6%  time=11808.0ms
+
+== ODPI Complete — total elapsed: 180.452s ==
+
+Computing evaluation metrics...
+
+╔══════════════════════════════════════════════════════╗
+║  TFHE-ODPI Evaluation Report — Run7-synthetic        ║
+╠══════════════════════════════════════════════════════╣
+║  Dataset                                             ║
+║    Total packets   :    370                          ║
+║    Skipped packets :      0  (payload < min window)  ║
+╠══════════════════════════════════════════════════════╣
+║  Confusion matrix                                    ║
+║    True  Positives :     96                          ║
+║    True  Negatives :    185                          ║
+║    False Positives :      0                          ║
+║    False Negatives :     89                          ║
+╠══════════════════════════════════════════════════════╣
+║  Classification metrics                              ║
+║    Accuracy        :  75.95%                        ║
+║    Precision       : 100.00%                        ║
+║    Recall          :  51.89%                        ║
+║    F1 Score        :  68.33%                        ║
+║    FPR             :   0.00%                        ║
+║    FNR             :  48.11%                        ║
+║    MCC             :  0.592                         ║
+╠══════════════════════════════════════════════════════╣
+║  Performance                                         ║
+║    Wall time       :    180.5s                      ║
+║    Avg packet time :   3762.9ms                     ║
+║    Min packet time :     13.3ms                     ║
+║    Max packet time :  24821.4ms                     ║
+╠══════════════════════════════════════════════════════╣
+║  Bloom filter                                        ║
+║    Total windows   :    22784                        ║
+║    Candidates (FHE):      173                        ║
+║    Pruning rate    :  99.24%                        ║
+╚══════════════════════════════════════════════════════╝
+
+[metrics] Per-packet CSV → results/Run7-synthetic_packets.csv
+[metrics] Summary CSV    → results/Run7-synthetic_summary.csv
+[metrics] LaTeX row      → results/metrics_latex.tex
+
+All outputs written to results/
