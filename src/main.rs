@@ -28,12 +28,12 @@ use std::time::Instant;
 // Configuration
 // ============================================================
 
-const PAYLOAD_FILE: &str = "data/cicids_dataset_shuffled.txt";
-const LABEL_FILE:   &str = "data/cicids_labels_shuffled.txt";
+const PAYLOAD_FILE: &str = "data/synthetic_dataset.txt";
+const LABEL_FILE:   &str = "data/synthetic_labels.txt";
 const GROUP_A_FILE: &str = "data/group_a_rules.txt";
 const GROUP_B_FILE: &str = "data/group_b_rules.txt";
 const FP_RATE:      f64  = 0.1;
-const RUN_NAME:     &str = "Run5-normalised-multigroup";
+const RUN_NAME:     &str = "Run7-synthetic";
 
 // ============================================================
 // Helper — load rules from file
