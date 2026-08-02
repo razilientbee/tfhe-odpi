@@ -28,8 +28,8 @@ use std::time::Instant;
 // Configuration
 // ============================================================
 
-const PAYLOAD_FILE: &str = "data/cicids_dataset_shuffled.txt";
-const LABEL_FILE:   &str = "data/cicids_labels_shuffled.txt";
+const PAYLOAD_FILE: &str = "data/cicids_dataset1_payloads.txt";
+const LABEL_FILE:   &str = "data/cicids_dataset1_labels.txt";
 const GROUP_A_FILE: &str = "data/group_a_rules.txt";
 const GROUP_B_FILE: &str = "data/group_b_rules.txt";
 const FP_RATE:      f64  = 0.1;

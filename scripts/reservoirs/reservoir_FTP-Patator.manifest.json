@@ -1,0 +1,20 @@
+{
+  "accepted": 185,
+  "candidates_seen": 731,
+  "cap": 1000,
+  "cap_hit": false,
+  "category": "FTP-Patator",
+  "elapsed_seconds": 2418.08,
+  "filter_description": "src IP == 192.168.10.51 and dst port == 21 (forward direction only)",
+  "min_len": 4,
+  "min_printable_ratio": 0.3,
+  "packets_scanned": 9012836,
+  "payload_file": "scripts/reservoirs/reservoir_FTP-Patator.txt",
+  "rejected_duplicate": 546,
+  "rejected_not_printable": 0,
+  "rejected_too_short": 0,
+  "source_csv": null,
+  "source_pcap": "/home/vboxuser/Downloads/Tuesday-WorkingHours.pcap",
+  "stopped_early": false,
+  "sublabel": null
+}

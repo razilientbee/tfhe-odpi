@@ -1,0 +1,29 @@
+{
+  "accepted": 8,
+  "candidates_seen": 12,
+  "cap": 1000,
+  "cap_hit": false,
+  "category": "Web-Attack",
+  "elapsed_seconds": 1745.73,
+  "filter_description": "CSV Label starts with \"Web Attack\", raw label 'Web Attack \ufffd Sql Injection'",
+  "flow_index_stats": {
+    "collisions": 9,
+    "hit_rate": 0.36691077461196286,
+    "hits": 2594345,
+    "lookups": 7070779,
+    "unmatched": 4476434
+  },
+  "min_len": 4,
+  "min_printable_ratio": 0.3,
+  "packets_scanned": 0,
+  "payload_file": "scripts/reservoirs/reservoir_Web-Attack_SQL-Injection.txt",
+  "raw_label": "Web Attack \ufffd Sql Injection",
+  "rejected_duplicate": 4,
+  "rejected_not_printable": 0,
+  "rejected_too_short": 0,
+  "run_packets_scanned": 7070779,
+  "source_csv": "/home/vboxuser/Downloads/GeneratedLabelledFlows/TrafficLabelling /Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv",
+  "source_pcap": "/home/vboxuser/Downloads/Thursday-WorkingHours.pcap",
+  "stopped_early": false,
+  "sublabel": "SQL-Injection"
+}

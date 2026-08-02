@@ -4,3 +4,5 @@ target/
 Thumbs.db
 data/pcap/
 rules/
+__pycache__/
+*.pyc

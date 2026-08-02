@@ -1,0 +1,29 @@
+{
+  "accepted": 1000,
+  "candidates_seen": 199324,
+  "cap": 1000,
+  "cap_hit": true,
+  "category": "DoS",
+  "elapsed_seconds": 2721.32,
+  "filter_description": "CSV Label == \"DoS Hulk\" (Label != \"BENIGN\" on Wednesday)",
+  "flow_index_stats": {
+    "collisions": 15537,
+    "hit_rate": 0.7188246888346896,
+    "hits": 7199848,
+    "lookups": 10016139,
+    "unmatched": 2816291
+  },
+  "min_len": 4,
+  "min_printable_ratio": 0.3,
+  "packets_scanned": 0,
+  "payload_file": "scripts/reservoirs/reservoir_DoS_DoS-Hulk.txt",
+  "raw_label": "DoS Hulk",
+  "rejected_duplicate": 17147,
+  "rejected_not_printable": 1903,
+  "rejected_too_short": 0,
+  "run_packets_scanned": 10016139,
+  "source_csv": "/home/vboxuser/Downloads/GeneratedLabelledFlows/TrafficLabelling /Wednesday-workingHours.pcap_ISCX.csv",
+  "source_pcap": "/home/vboxuser/Downloads/Wednesday-workingHours.pcap",
+  "stopped_early": false,
+  "sublabel": "DoS-Hulk"
+}

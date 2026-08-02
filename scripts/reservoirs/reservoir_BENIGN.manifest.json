@@ -1,0 +1,20 @@
+{
+  "accepted": 5925,
+  "candidates_seen": 1963248,
+  "cap": 5925,
+  "cap_hit": true,
+  "category": "BENIGN",
+  "elapsed_seconds": 1082.35,
+  "filter_description": "dst port == 80 and src IP startswith '192.168.' (forward direction only, Monday has no attack traffic in CICIDS2017)",
+  "min_len": 4,
+  "min_printable_ratio": 0.3,
+  "packets_scanned": 5057411,
+  "payload_file": "scripts/reservoirs/reservoir_BENIGN.txt",
+  "rejected_duplicate": 1373,
+  "rejected_not_printable": 1955950,
+  "rejected_too_short": 0,
+  "source_csv": null,
+  "source_pcap": "/home/vboxuser/Downloads/Monday-WorkingHours.pcap",
+  "stopped_early": true,
+  "sublabel": null
+}

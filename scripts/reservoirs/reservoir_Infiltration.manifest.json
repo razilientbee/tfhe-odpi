@@ -1,0 +1,27 @@
+{
+  "accepted": 802,
+  "candidates_seen": 29861,
+  "cap": 1000,
+  "cap_hit": false,
+  "category": "Infiltration",
+  "elapsed_seconds": 1985.96,
+  "filter_description": "CSV Label == \"Infiltration\"",
+  "flow_index_stats": {
+    "collisions": 0,
+    "hit_rate": 0.26061923304348783,
+    "hits": 1842781,
+    "lookups": 7070779,
+    "unmatched": 5227998
+  },
+  "min_len": 4,
+  "min_printable_ratio": 0.3,
+  "packets_scanned": 7070779,
+  "payload_file": "scripts/reservoirs/reservoir_Infiltration.txt",
+  "rejected_duplicate": 28740,
+  "rejected_not_printable": 18,
+  "rejected_too_short": 301,
+  "source_csv": "/home/vboxuser/Downloads/GeneratedLabelledFlows/TrafficLabelling /Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv",
+  "source_pcap": "/home/vboxuser/Downloads/Thursday-WorkingHours.pcap",
+  "stopped_early": false,
+  "sublabel": null
+}

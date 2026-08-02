@@ -1,0 +1,27 @@
+{
+  "accepted": 1000,
+  "candidates_seen": 1265,
+  "cap": 1000,
+  "cap_hit": true,
+  "category": "SSH-Patator",
+  "elapsed_seconds": 2532.44,
+  "filter_description": "CSV Label == \"SSH-Patator\"",
+  "flow_index_stats": {
+    "collisions": 1,
+    "hit_rate": 0.6926338663762945,
+    "hits": 5267448,
+    "lookups": 7604953,
+    "unmatched": 2337505
+  },
+  "min_len": 4,
+  "min_printable_ratio": 0.3,
+  "packets_scanned": 7604954,
+  "payload_file": "scripts/reservoirs/reservoir_SSH-Patator.txt",
+  "rejected_duplicate": 104,
+  "rejected_not_printable": 161,
+  "rejected_too_short": 0,
+  "source_csv": "/home/vboxuser/Downloads/GeneratedLabelledFlows/TrafficLabelling /Tuesday-WorkingHours.pcap_ISCX.csv",
+  "source_pcap": "/home/vboxuser/Downloads/Tuesday-WorkingHours.pcap",
+  "stopped_early": true,
+  "sublabel": null
+}
