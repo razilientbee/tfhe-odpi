@@ -72,7 +72,7 @@ pub struct EvalMetrics {
 /// run_name  : label for this run (e.g. "Run4-multigroup")
 /// results   : per-packet results from process_payloads_multigroup
 /// labels    : ground truth labels, one per packet
-///             "FTP-Patator" = attack, anything else = benign
+///             "BENIGN" = benign, anything else = attack
 /// wall_time : total pipeline wall time in seconds
 pub fn compute(
     run_name:  &str,
@@ -89,7 +89,7 @@ pub fn compute(
     for r in results {
         let is_attack = labels
             .get(r.packet_id)
-            .map(|l| l.trim() == "FTP-Patator")
+            .map(|l| l.trim() != "BENIGN")
             .unwrap_or(false);
 
         if r.skipped {
@@ -239,7 +239,7 @@ pub fn write_csv(
         writeln!(f, "packet_id,alert,label,tp,tn,fp,fn,windows,candidates,pruning_pct,duration_ms").ok();
         for r in results {
             let label = labels.get(r.packet_id).map(|l| l.trim()).unwrap_or("UNKNOWN");
-            let is_attack = label == "FTP-Patator";
+            let is_attack = label != "BENIGN";
             let (is_tp, is_tn, is_fp, is_fn) = if r.skipped {
                 (false, !is_attack, false, is_attack)
             } else {
