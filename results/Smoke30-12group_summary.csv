@@ -1,2 +1,0 @@
-run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
-Smoke30-12group,30,0,3,16,11,0,0.6333,0.2143,1.0000,0.3529,0.4074,0.0000,0.3563,246.9,51422.9,125804,363,0.9971

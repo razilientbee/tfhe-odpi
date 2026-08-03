@@ -1,2 +1,0 @@
-run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
-Strat42-fixed-metrics,42,0,15,20,1,6,0.8333,0.9375,0.7143,0.8108,0.0476,0.2857,0.6864,577.5,59093.6,229029,571,0.9975
