@@ -1,10 +1,10 @@
 {
   "accepted": 7,
   "candidates_seen": 18,
-  "cap": 1000,
+  "cap": 5000,
   "cap_hit": false,
   "category": "DoS",
-  "elapsed_seconds": 2721.32,
+  "elapsed_seconds": 2691.76,
   "filter_description": "CSV Label == \"DoS slowloris\" (Label != \"BENIGN\" on Wednesday)",
   "flow_index_stats": {
     "collisions": 15537,

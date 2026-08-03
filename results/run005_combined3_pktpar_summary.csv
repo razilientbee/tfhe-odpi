@@ -1,0 +1,2 @@
+run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
+Combined3-baseline-v2pipeline,1110,2,539,555,0,16,0.9856,1.0000,0.9712,0.9854,0.0000,0.0288,0.9716,4895.8,34538.9,3567987,7472,0.9979

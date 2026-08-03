@@ -30,7 +30,7 @@ Each run is fully deterministic given the same SEED and CATEGORIES.
 import random
 
 SEED = 42
-DATASET_NAME = "dataset1"
+DATASET_NAME = "xss_baseline"
 
 RESERVOIR_DIR = "scripts/reservoirs"
 OUTPUT_DIR = "data"
@@ -48,13 +48,13 @@ CAP = 185
 # Every entry here pulls CAP samples by default. Swap CAP for a literal
 # number on any line to give that one category a different size.
 MALICIOUS_CATEGORIES = {
-    "FTP-Patator":   ("data/cicids_attack_payloads.txt",                        "FTP-Patator",   CAP),
-    "SSH-Patator":   (f"{RESERVOIR_DIR}/reservoir_SSH-Patator.txt",              "SSH-Patator",   CAP),
-    "Infiltration":  (f"{RESERVOIR_DIR}/reservoir_Infiltration.txt",             "Infiltration",  CAP),
-    "Brute-Force":   (f"{RESERVOIR_DIR}/reservoir_Web-Attack_Brute-Force.txt",   "Brute-Force",   CAP),
+    #"FTP-Patator":   ("data/cicids_attack_payloads.txt",                        "FTP-Patator",   CAP),
+    #"SSH-Patator":   (f"{RESERVOIR_DIR}/reservoir_SSH-Patator.txt",              "SSH-Patator",   CAP),
+    #"Infiltration":  (f"{RESERVOIR_DIR}/reservoir_Infiltration.txt",             "Infiltration",  CAP),
+    #"Brute-Force":   (f"{RESERVOIR_DIR}/reservoir_Web-Attack_Brute-Force.txt",   "Brute-Force",   CAP),
     "XSS":           (f"{RESERVOIR_DIR}/reservoir_Web-Attack_XSS.txt",           "XSS",           CAP),
-    "DoS-GoldenEye": (f"{RESERVOIR_DIR}/reservoir_DoS_DoS-GoldenEye.txt",        "DoS-GoldenEye", CAP),
-    "DoS-Hulk":      (f"{RESERVOIR_DIR}/reservoir_DoS_DoS-Hulk.txt",             "DoS-Hulk",      CAP),
+    #"DoS-GoldenEye": (f"{RESERVOIR_DIR}/reservoir_DoS_DoS-GoldenEye.txt",        "DoS-GoldenEye", CAP),
+    #"DoS-Hulk":      (f"{RESERVOIR_DIR}/reservoir_DoS_DoS-Hulk.txt",             "DoS-Hulk",      CAP),
     # SQL-Injection intentionally left out: only 8 payloads were ever
     # extracted (source genuinely exhausted, not cap-limited), too few to
     # reach CAP. Uncomment and give it its own count (max 8) to include it

@@ -1,0 +1,2 @@
+xss_r/?name=
+%3cscript%3e
