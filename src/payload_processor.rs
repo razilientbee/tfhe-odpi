@@ -204,20 +204,26 @@ pub fn process_payloads_multigroup(
                 let window_len = group.window_len;
                 if payload.len() < window_len { continue; }
 
-                let total_windows        = payload.len() - window_len + 1;
-                total_windows_all       += total_windows;
-                let mut group_accumulated = server_key.trivial_encrypt(false);
+                let total_windows  = payload.len() - window_len + 1;
+                total_windows_all += total_windows;
 
-                for i in 0..total_windows {
-                    let window = &payload[i..i + window_len];
-                    if !group.bloom.might_contain(window) { continue; }
-                    total_candidates_all += 1;
-                    let enc_window = &enc_payload[i..i + window_len];
-                    let enc_result = encrypted_substring_match(
-                        server_key, enc_window, &group.rules,
+                // Sequential prefilter: cheap, plaintext-only.
+                let candidate_indices: Vec<usize> = (0..total_windows)
+                    .filter(|&i| group.bloom.might_contain(&payload[i..i + window_len]))
+                    .collect();
+                total_candidates_all += candidate_indices.len();
+
+                // Parallel FHE evaluation + OR-reduction over candidates.
+                let group_accumulated = candidate_indices
+                    .par_iter()
+                    .map(|&i| {
+                        let enc_window = &enc_payload[i..i + window_len];
+                        encrypted_substring_match(server_key, enc_window, &group.rules)
+                    })
+                    .reduce(
+                        || server_key.trivial_encrypt(false),
+                        |a, b| server_key.or(&a, &b),
                     );
-                    group_accumulated = server_key.or(&group_accumulated, &enc_result);
-                }
 
                 packet_accumulated = server_key.or(&packet_accumulated, &group_accumulated);
             }
