@@ -27,8 +27,8 @@ use std::time::Instant;
 // ============================================================
 // Configuration
 // ============================================================
-const PAYLOAD_FILE: &str = "data/cicids_ftp_baseline_payloads.txt";
-const LABEL_FILE:   &str = "data/cicids_ftp_baseline_labels.txt";
+const PAYLOAD_FILE: &str = "data/cicids_combined3_payloads.txt";
+const LABEL_FILE:   &str = "data/cicids_combined3_labels.txt";
 //const PAYLOAD_FILE: &str = "data/cicids_xss_baseline_payloads.txt";
 //const LABEL_FILE:   &str = "data/cicids_xss_baseline_labels.txt";
 
@@ -36,7 +36,7 @@ const LABEL_FILE:   &str = "data/cicids_ftp_baseline_labels.txt";
 const FP_RATE:      f64  = 0.1;
 
 // TODO: confirm before running — must not collide with any preserved run.
-const RUN_NAME: &str = "FTP-baseline-winpar";
+const RUN_NAME: &str = "Combined3-twophase";
 
 
 // One rule file per byte-length group. Every rule in a file must be the
@@ -49,11 +49,11 @@ const RULE_GROUPS: &[(&str, &str)] = &[
     //("Group-C-4byte",  "data/group_c_rules.txt"),   // nmap, C:\>
     //("Group-D-9byte",  "data/group_d_rules.txt"),   // hmac-sha2, goto loop
     //("Group-E-11byte", "data/group_e_rules.txt"),   // Login=Login, console.log, Keep-Alive:
-    //("Group-F-12byte", "data/group_f_rules.txt"),   // xss_r/?name=, %3Cscript%3E
-    //("Group-G-14byte", "data/group_g_rules.txt"),   // username=admin
-    //("Group-H-15byte", "data/group_h_rules.txt"),   // document.cookie
+    ("Group-F-12byte", "data/group_f_rules.txt"),   // xss_r/?name=, %3Cscript%3E
+    ("Group-G-14byte", "data/group_g_rules.txt"),   // username=admin
+    ("Group-H-15byte", "data/group_h_rules.txt"),   // document.cookie
     //("Group-I-17byte", "data/group_i_rules.txt"),   // Connection: close
-    //("Group-J-18byte", "data/group_j_rules.txt"),   // POST /dv/login.php
+    ("Group-J-18byte", "data/group_j_rules.txt"),   // POST /dv/login.php
     //("Group-K-23byte", "data/group_k_rules.txt"),   // Cache-Control: no-cache
     //("Group-L-26byte", "data/group_l_rules.txt"),   // Accept-Charset: ISO-8859-1
     //("Group-XSS-11byte", "data/group_xss_console_rules.txt"), //console.log
