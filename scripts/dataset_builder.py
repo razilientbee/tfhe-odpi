@@ -30,7 +30,7 @@ Each run is fully deterministic given the same SEED and CATEGORIES.
 import random
 
 SEED = 42
-DATASET_NAME = "xss_baseline"
+DATASET_NAME = "combined3_cap185"
 
 RESERVOIR_DIR = "scripts/reservoirs"
 OUTPUT_DIR = "data"
@@ -48,10 +48,10 @@ CAP = 185
 # Every entry here pulls CAP samples by default. Swap CAP for a literal
 # number on any line to give that one category a different size.
 MALICIOUS_CATEGORIES = {
-    #"FTP-Patator":   ("data/cicids_attack_payloads.txt",                        "FTP-Patator",   CAP),
+    "FTP-Patator":   (f"{RESERVOIR_DIR}/reservoir_FTP-Patator.txt",                        "FTP-Patator",   CAP),
     #"SSH-Patator":   (f"{RESERVOIR_DIR}/reservoir_SSH-Patator.txt",              "SSH-Patator",   CAP),
     #"Infiltration":  (f"{RESERVOIR_DIR}/reservoir_Infiltration.txt",             "Infiltration",  CAP),
-    #"Brute-Force":   (f"{RESERVOIR_DIR}/reservoir_Web-Attack_Brute-Force.txt",   "Brute-Force",   CAP),
+    "Brute-Force":   (f"{RESERVOIR_DIR}/reservoir_Web-Attack_Brute-Force.txt",   "Brute-Force",   CAP),
     "XSS":           (f"{RESERVOIR_DIR}/reservoir_Web-Attack_XSS.txt",           "XSS",           CAP),
     #"DoS-GoldenEye": (f"{RESERVOIR_DIR}/reservoir_DoS_DoS-GoldenEye.txt",        "DoS-GoldenEye", CAP),
     #"DoS-Hulk":      (f"{RESERVOIR_DIR}/reservoir_DoS_DoS-Hulk.txt",             "DoS-Hulk",      CAP),

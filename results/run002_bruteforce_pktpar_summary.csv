@@ -1,2 +1,0 @@
-run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
-BruteForce-baseline-v2pipeline,370,0,178,185,0,7,0.9811,1.0000,0.9622,0.9807,0.0000,0.0378,0.9629,342.9,7308.5,445782,645,0.9986

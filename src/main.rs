@@ -27,16 +27,33 @@ use std::time::Instant;
 // ============================================================
 // Configuration
 // ============================================================
-const PAYLOAD_FILE: &str = "data/cicids_combined3_payloads.txt";
-const LABEL_FILE:   &str = "data/cicids_combined3_labels.txt";
+
+//const PAYLOAD_FILE: &str = "data/cicids_ftp_baseline_payloads.txt";
+//const LABEL_FILE:   &str = "data/cicids_ftp_baseline_labels.txt";
+
+//const PAYLOAD_FILE: &str = "data/cicids_bruteforce_baseline_payloads.txt";
+//const LABEL_FILE:   &str = "data/cicids_bruteforce_baseline_labels.txt";
+
 //const PAYLOAD_FILE: &str = "data/cicids_xss_baseline_payloads.txt";
 //const LABEL_FILE:   &str = "data/cicids_xss_baseline_labels.txt";
+
+//const PAYLOAD_FILE: &str = "data/cicids_combined3_cap50_payloads.txt";
+//const LABEL_FILE:   &str = "data/cicids_combined3_cap50_labels.txt";
+
+//const PAYLOAD_FILE: &str = "data/cicids_combined3_cap100_payloads.txt";
+//const LABEL_FILE:   &str = "data/cicids_combined3_cap100_labels.txt";
+
+//const PAYLOAD_FILE: &str = "data/cicids_combined3_cap150_payloads.txt";
+//const LABEL_FILE:   &str = "data/cicids_combined3_cap150_labels.txt";
+
+const PAYLOAD_FILE: &str = "data/cicids_combined3_cap185_payloads.txt";
+const LABEL_FILE:   &str = "data/cicids_combined3_cap185_labels.txt";
 
 
 const FP_RATE:      f64  = 0.1;
 
 // TODO: confirm before running — must not collide with any preserved run.
-const RUN_NAME: &str = "Combined3-twophase";
+const RUN_NAME: &str = "twophase_combined3cap185_run_003";
 
 
 // One rule file per byte-length group. Every rule in a file must be the
@@ -44,19 +61,12 @@ const RUN_NAME: &str = "Combined3-twophase";
 // are the original FTP-Patator rules; C through L are the Tier-2 additions
 // derived from the dataset1 candidate-signature pass.
 const RULE_GROUPS: &[(&str, &str)] = &[
-    ("Group-A-5byte",  "data/group_a_rules.txt"),   // user , pass , stor 
-    ("Group-B-6byte",  "data/group_b_rules.txt"),   // retr /, size /, mdtm /
-    //("Group-C-4byte",  "data/group_c_rules.txt"),   // nmap, C:\>
-    //("Group-D-9byte",  "data/group_d_rules.txt"),   // hmac-sha2, goto loop
-    //("Group-E-11byte", "data/group_e_rules.txt"),   // Login=Login, console.log, Keep-Alive:
-    ("Group-F-12byte", "data/group_f_rules.txt"),   // xss_r/?name=, %3Cscript%3E
-    ("Group-G-14byte", "data/group_g_rules.txt"),   // username=admin
-    ("Group-H-15byte", "data/group_h_rules.txt"),   // document.cookie
-    //("Group-I-17byte", "data/group_i_rules.txt"),   // Connection: close
-    ("Group-J-18byte", "data/group_j_rules.txt"),   // POST /dv/login.php
-    //("Group-K-23byte", "data/group_k_rules.txt"),   // Cache-Control: no-cache
-    //("Group-L-26byte", "data/group_l_rules.txt"),   // Accept-Charset: ISO-8859-1
-    //("Group-XSS-11byte", "data/group_xss_console_rules.txt"), //console.log
+    ("FTP-5byte",         "data/rules_ftp_5b.txt"),
+    ("FTP-6byte",         "data/rules_ftp_6b.txt"),
+    ("BruteForce-14byte", "data/rules_bruteforce_14b.txt"),
+    ("BruteForce-18byte", "data/rules_bruteforce_18b.txt"),
+    ("XSS-12byte",        "data/rules_xss_12b.txt"),
+    ("XSS-15byte",        "data/rules_xss_15b.txt"),
 ];
 
 // ============================================================

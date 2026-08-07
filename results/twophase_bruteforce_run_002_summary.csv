@@ -1,0 +1,2 @@
+run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
+twophase_bruteforce_run_002,370,0,178,185,0,7,0.9811,1.0000,0.9622,0.9807,0.0000,0.0378,0.9629,1456.3,27411.3,1346966,2526,0.9981

@@ -1,0 +1,2 @@
+run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
+twophase_xss_run_001,370,0,179,185,0,6,0.9838,1.0000,0.9676,0.9835,0.0000,0.0324,0.9681,1926.1,38948.6,1345094,2988,0.9978

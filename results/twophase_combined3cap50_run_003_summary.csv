@@ -1,0 +1,2 @@
+run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
+twophase_combined3cap50_run_003,300,0,150,150,0,0,1.0000,1.0000,1.0000,1.0000,0.0000,0.0000,1.0000,1274.4,29652.0,976246,2053,0.9979

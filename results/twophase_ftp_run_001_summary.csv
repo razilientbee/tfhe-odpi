@@ -1,0 +1,2 @@
+run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
+twophase_ftp_run_001,370,2,182,185,0,3,0.9919,1.0000,0.9838,0.9918,0.0000,0.0162,0.9839,1168.9,19030.7,875927,1958,0.9978

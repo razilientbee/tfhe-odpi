@@ -1,2 +1,0 @@
-run,total,skipped,tp,tn,fp,fn,accuracy,precision,recall,f1,fpr,fnr,mcc,wall_time_s,avg_time_ms,total_windows,total_candidates,pruning_rate
-FTP-baseline-v2pipeline,370,2,182,185,0,3,0.9919,1.0000,0.9838,0.9918,0.0000,0.0162,0.9839,609.3,12900.3,296494,1102,0.9963
