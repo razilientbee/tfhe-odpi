@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Pinto"
+    given-names: "Veena"
+title: "TFHE-ODPI"
+url: "https://github.com/razilientbee/tfhe-odpi"
+version: 1.0.0
+date-released: 2026-08-15
