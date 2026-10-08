@@ -28,8 +28,8 @@
 //   (tfhe::boolean::parameters::DEFAULT_PARAMETERS)
 // • Key generation is probabilistic and uses OS entropy
 // • Keys are generated fresh on every run — no persistence
-// • Key generation takes ~100ms in release mode
-// • Keys are large (~10MB for ServerKey) — pass by reference
+// • Key generation takes under a second in release mode (machine-dependent)
+// • Keys are large (ServerKey ~91.8 MB / 87.6 MiB serialized, ClientKey ~7.1 KB) — pass by reference
 //   everywhere, never clone
 //
 // Future Extensions
